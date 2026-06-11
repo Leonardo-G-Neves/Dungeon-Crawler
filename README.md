@@ -76,6 +76,6 @@ Este projeto foi concebido e codificado com dedicação por:
 
 * **Leonardo Augusto Gonçalves das Neves**
 * **Adan Arthur Mathias de Castro Corrêa de Melo**
-* **Arthur Moraes de Souza**
+
 
 **Nota de Desenvolvimento:** Para garantir um código limpo em linguagem C clássica e refinar a estrutura de sistemas complexos — como o motor de renderização de mapa, feedback visual sobreposto e sistema de colisões —, ferramentas de Inteligência Artificial foram utilizadas para auxiliar pontualmente no desenvolvimento arquitetural do projeto.
