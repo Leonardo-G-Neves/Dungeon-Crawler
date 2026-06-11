@@ -421,13 +421,13 @@ void mover_inimigos(void) {
         }
         else if (inimigos[i].tipo == 'Z') {
             turnos_boss++;
-            if (turnos_boss % 3 == 0) {
+            if (turnos_boss % 7 == 0) {
                 /* Krauser: Teleporte e Invocacao */
                 do { tx = rand() % dim_atual; ty = rand() % dim_atual; } while (mapa[tx][ty] != ' ');
                 nx = tx; ny = ty; /* Teleporte */
 
                 /* Tenta invocar minion respeitando o limite maximo de 7 em campo */
-                if (inimigos_vivos() < 7) {
+                if (inimigos_vivos() < 2) {
                     int slot = -1;
                     int j;
                     /* Acha um slot inativo para reaproveitar no array */
