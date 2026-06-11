@@ -70,3 +70,12 @@ Este projeto foi construído utilizando bibliotecas nativas do ambiente Windows 
 1. Clone o repositório em sua máquina:
 ```bash
 git clone [https://github.com/Leonardo-G-Neves/dungeon-crawler-c.git](https://github.com/Leonardo-G-Neves/dungeon-crawler-c.git)
+## 👨‍💻 Desenvolvedores e Créditos
+
+Este projeto foi concebido e codificado com dedicação por:
+
+* **Leonardo Augusto**
+* **Adan Melo**
+* **Arthur Moraes**
+
+**Nota de Desenvolvimento:** Para garantir um código limpo em linguagem C clássica e refinar a estrutura de sistemas complexos — como o motor de renderização de mapa, feedback visual sobreposto e sistema de colisões —, ferramentas de Inteligência Artificial foram utilizadas para auxiliar pontualmente no desenvolvimento arquitetural do projeto.
